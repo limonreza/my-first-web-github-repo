@@ -7,3 +7,23 @@ div{
     background-color: aqua;
     padding: 10px;
 }
+
+#pera2{
+    background-color: crimson;
+    padding: 3px;
+    border-radius: 0%;
+    font-style: italic:unset;
+}
+#pera3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight:lighter;
+}
+#pera4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: lighter;
+}
+h1{
+    text-align: center;
+}
